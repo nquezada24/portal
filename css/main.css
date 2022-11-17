@@ -1,6 +1,6 @@
 /* Global rules */
 
-@import url'(https://fonts.googleapis.com/css?family=Manrope)';
+@import url(https://fonts.googleapis.com/css?family=Manrope);
 
 html {
     background-color: #DCC7AA;
@@ -39,9 +39,7 @@ h1.page-header{
 
 main.wrapper {
     background-color: #F7C331;
-    overflow: auto
-     background-color: white;
-     overflow: auto;
+    overflow: auto;
     -moz-border-radius-bottomleft: 5px;
     -moz-border-radius-bottomright: 5px;
     border-bottom-left-radius: 5px;
